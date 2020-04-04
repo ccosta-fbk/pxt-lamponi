@@ -1,7 +1,7 @@
 /**
  * MakeCode extension di test lamponi
  */
-//% color=#009b5b icon="\alicorn" block="Lamponi"
+//% color=#009b5b icon="\f025" block="Lamponi"
 namespace lamponi {
 
     /**
